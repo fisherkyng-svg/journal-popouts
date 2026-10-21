@@ -9,6 +9,18 @@ button, and closing it leaves the journal exactly where it was.
 - **Ctrl/Cmd-click** a link to open the page the old way.
 - Settings: pop-outs for the GM only (default) or everyone; show the title to players when shared.
 
+## Close shared images
+
+Shared art piling up on players' screens? One press clears it.
+
+- **Scene controls → Token tools → images icon** (GM only), or the hotkey **Shift + `** (rebind in Configure Controls).
+- Closes **every** image pop-out on every connected player's screen at once, not one per press.
+- Settings:
+  - *Which pop-outs*: all image pop-outs (default), or only images sent with Show Players, which leaves a portrait a player opened themselves.
+  - *Also close mine*: close the GM's own image pop-outs too (default on).
+- Nothing is deleted; players can reopen anything from the journal or chat.
+- Players can't trigger it: clients ignore close messages that don't come from a GM.
+
 ## Install
 
 Manifest URL:
